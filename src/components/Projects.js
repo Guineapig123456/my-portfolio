@@ -9,10 +9,9 @@ function Projects() {
         <div className="col-md-6">
           <div className="card mb-4">
             <div className="card-body">
-              <h3 className="card-title">Project 1</h3>
+              <h3 className="card-title">Project 1: Smart Parking System </h3>
               <p className="card-text">
-                Description of project 1. This project involves using React and Node.js to build a full-stack web
-                application. The project showcases user authentication, data management, and real-time updates.
+                Description of project 1. This project involves using Arduino Board,Ultrasonic Sound sensor and servo motor.
               </p>
             </div>
           </div>
@@ -20,7 +19,7 @@ function Projects() {
         <div className="col-md-6">
           <div className="card mb-4">
             <div className="card-body">
-              <h3 className="card-title">Project 2</h3>
+              <h3 className="card-title">Project 2: Job Finder Website</h3>
               <p className="card-text">
                 Description of project 2. This project focuses on creating a responsive design using Bootstrap and
                 CSS. It features a modern UI, interactive elements, and accessibility improvements.
