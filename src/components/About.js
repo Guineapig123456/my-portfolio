@@ -6,10 +6,9 @@ function About() {
     <div>
       <h2>About Me</h2>
       <p>
-        I am a web developer with a strong interest in creating efficient and scalable web applications. I have
-        experience in various web technologies including React, Node.js, and more. My journey in web development
-        started with a curiosity for how websites are built, and now I am passionate about crafting elegant and
-        functional digital experiences.
+       I am pursing B.Tech majoring in CSE at Institute of Engineering and Management.Besides my education,I am a passionate painter of honors
+       like Mandala,Doodle,Zentangle and Portrait. Recently I had worked on a book publication named" Information Technology and its application in business".
+       I am working on a project named "The quality of agricultural field by NPK analysis".My current cgpa is 8.74.  
       </p>
     </div>
   );
