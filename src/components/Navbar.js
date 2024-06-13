@@ -8,7 +8,7 @@ function NavigationBar() {
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
         <LinkContainer to="/">
-          <Navbar.Brand>Supratim Auddy</Navbar.Brand>
+          <Navbar.Brand>Tanisha Saha</Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

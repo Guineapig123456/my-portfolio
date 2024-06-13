@@ -22,7 +22,7 @@ function App() {
           </Routes>
         </main>
         <footer className="App-footer">
-          <p>© 2024 Supratim Auddy</p>
+          <p>© 2024 Tanisha Saha</p>
         </footer>
       </div>
     </Router>
